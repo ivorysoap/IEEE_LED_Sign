@@ -1,4 +1,5 @@
   // IEEE Morse Code Flasher
+  // by Ivor B. (last updated 2019-05-07)
   
   #define BLUEPIN 3
   #define FADESPEED 3
